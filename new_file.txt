@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 git tex adfsd
 asdfadffa
 asdfadsfgre
+test test test
 
-
+=======
+git text
+writing at 
+>>>>>>> b4fccd6b94d8a67476979c6eba7757515e2dcd54
